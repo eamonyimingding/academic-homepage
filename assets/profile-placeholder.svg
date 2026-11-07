@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 860" role="img" aria-label="Decorative geometric YD monogram placeholder">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d1d4d1"/><stop offset="1" stop-color="#aeb8b5"/></linearGradient><radialGradient id="glow" cx=".1" cy=".1" r="1"><stop stop-color="#e8e6dc" stop-opacity=".96"/><stop offset="1" stop-color="#bec8c4" stop-opacity="0"/></radialGradient></defs>
+<rect width="700" height="860" fill="url(#bg)"/><rect width="700" height="860" fill="url(#glow)"/><g fill="none" stroke="#f4f1e9" stroke-width="1.2" opacity=".53"><circle cx="350" cy="385" r="268"/><circle cx="350" cy="385" r="220"/><circle cx="350" cy="385" r="172"/><circle cx="350" cy="385" r="124"/><path d="M-30 166h760M-30 310h760M-30 458h760M-30 603h760M170 -30v800M350 -30v800M530 -30v800"/></g>
+<path d="M72 750 C202 650 264 540 350 470 C445 390 500 360 640 275" fill="none" stroke="#758c89" stroke-width="3" opacity=".65"/>
+<text x="350" y="430" text-anchor="middle" font-family="Georgia,serif" font-size="150" letter-spacing="-14" fill="#f8f6ee">YD</text><line x1="259" y1="463" x2="441" y2="463" stroke="#f8f6ee" stroke-width="1.4" opacity=".86"/><text x="350" y="499" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="6" fill="#f8f6ee">ACCOUNTING</text>
+</svg>
